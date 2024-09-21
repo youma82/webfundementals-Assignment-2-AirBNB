@@ -1,0 +1,59 @@
+الجزء العلوي من العناصر
+<h2>AirBed &Breakfast - Find a place to stay.</h2>
+<ul>
+<li><a href="sign up">Sign Up</a></li>
+<li><a href="sign up">Sign In</a></li>
+</ul>
+<h4>This listing is no longer available.</h4>
+<hr>
+
+
+
+القائمة في الجزء الوسط
+<!-- the forms list in the body-->
+    <p><strong>Find a place to stay</strong></p>
+    <a href="#">Rent nightly from real people in 830 cities in 73 countries.</a>
+    <div><input type="text" placeholder="where are you going?"></div>
+    <p>Check in</p><input type="date">
+    <p>Check out</p><input type="date">
+
+
+//Guest code//
+<label for="">Guests</label>
+    <input type="number" id="number1" name="number1" min="0" max="100"><br>
+
+
+الصورة العمود اليمين 
+ <h5>Frances & Greg, Los Angeles</h5>
+       <h6>Recently reviewed</h6>
+    <img src="couple.jpg" alt="couple.jp">
+
+    <h5>Washington Dc</h5>
+    <h6>From $10/night</h6>
+    <img src="bulding.jpg" alt="washington">
+
+    <h5>Paris, France</h5>
+    <h6>Rooms from $20/night</h6>
+    <img src="park.jpg" alt="paris">
+
+
+
+**
+
+
+الصور والمحتوى في الجزء المنتصف
+
+<img src="lack.jpg" alt="paris" ><!--lack picture-->
+    <img src="WOMAN.jpg" alt="woman"><!--woman picture-->
+    <a href="#">"Gabs place"</a>- Amesterdam, Netherlands
+    <p>$85/night</p>
+        <p>1 Review</p>
+
+***
+
+جزء الشعارات 
+<img src="bulding.jpg" alt="bulding" class="hotel-bulding"
+<b><strong>As seen on:</b></strong>
+<img src="logos.png" alt="logos" class="logos">
+
+***

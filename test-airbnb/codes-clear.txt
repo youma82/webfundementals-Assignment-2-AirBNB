@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AirBnb</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-box"><!--main div(for everything in page)-->
+
+<div class="main2-box"><!--the box in the center for pics+forms--></div>
+
+<div class="main3-box"></div><!--the box or the bottom(pic+logos+list)-->
+        
+</div>
+
+</body>
+</html>
+**
+
+.body{
+margin: 0%;
+padding: 0%;
+height: 1000%;
+width:0%;
+}
+
+.main-box{
+    text-align: start;
+}
+
+.main2-box{
+    display: flex;
+    flex-direction: row;
+}
+
+.main3-box{
+    display: flex;
+    flex-direction: row;
+
+}
